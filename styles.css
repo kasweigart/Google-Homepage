@@ -1,0 +1,17 @@
+.img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25%;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.search {
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    
+}
